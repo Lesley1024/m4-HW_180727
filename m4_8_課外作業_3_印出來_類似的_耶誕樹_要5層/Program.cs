@@ -11,7 +11,7 @@ namespace m4_8_課外作業_3_印出來_類似的_耶誕樹_要5層
         static void Main(string[] args)
         {
             int numOfLayer = 5;    //宣告階層數
-            int space = 5;
+            int space = numOfLayer;
 
             string leaf = "*";
 
